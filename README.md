@@ -1,7 +1,8 @@
 # NEGA-CUBE
- A simple classic coin collect game devloped in 2020. (Learning unity)
-
+A simple classic coin collect game developed in 2020. (Learning unity)
+ 
 This is a simple coin collect game for my unity learning.
+
 
 
 ## Project description
