@@ -7,7 +7,7 @@ This is a simple coin collect game for my unity learning.
 Name: NEGA-CUBE <br>
 Programming Language: C# <br>
 Platform: PC game <br>
-Project No: update me <br>
+Project No: 21 <br>
 Year: 2020
 
 
